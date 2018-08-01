@@ -1,0 +1,38 @@
+[
+	{
+		"subdomain": "mail",
+		"note": "subdomain"
+	},
+	{
+		"subdomain": "old",
+		"note": "subdomain"
+	},
+	{
+		"subdomain": "m",
+		"note": "subdomain"
+	},
+	{
+		"subdomain": "mobile",
+		"note": "subdomain"
+	},
+	{
+		"subdomain": "cms",
+		"note": "subdomain"
+	},
+	{
+		"subdomain": "admin",
+		"note": "subdomain"
+	},
+	{
+		"subdomain": "owa",
+		"note": "subdomain"
+	},
+	{
+		"subdomain": "webadmin",
+		"note": "subdomain"
+	},
+	{
+		"subdomain": "webmail",
+		"note": "subdomain"
+	}
+]
